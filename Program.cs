@@ -9,7 +9,7 @@ for(int i = 0; i < amount; i++)
     array[i] = Console.ReadLine();
 }
 
-int count = 1;
+int count = 0;
 
 for(int i = 0; i < amount; i++)
 {
